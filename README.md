@@ -6,12 +6,15 @@ p5.js minimum project template with Vite and TypeScript
 
 ## Quick start
 
+Click "Use this template" in GitHub repository page to create your own new repository from this template.
+Then clone your new repository to local.
+
 ```sh
-# Clone this repository
-git clone https://github.com/00x4/p5js-ts-template.git mysketch
+# Clone your new repository
+git clone https://github.com/your-account/your-sketch.git
 
 # Go to working directory and initialize the project
-cd mysketch
+cd your-sketch
 yarn
 
 # Launch app
