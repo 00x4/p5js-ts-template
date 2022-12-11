@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "typescript": "^4.8.4",
-    "vite": "^3.2.4",
+    "vite": "^3.2.5",
     "@types/p5": "^1.4.3"
   }
 }
