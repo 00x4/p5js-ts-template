@@ -112,10 +112,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.18.12.tgz#1da26735ce5954bf914f8f2117b5096c548bbba2"
   integrity sha512-O0UYQVkvfM/jO8a4OwoV0mAKSJw+mjWTAd1MJd/1FCX6uiMdLmMRPK/w6e9OQ0ob2WGxzIm9va/KG0Ja4zIOgg==
 
-"@types/p5@^1.7.1":
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/@types/p5/-/p5-1.7.1.tgz#e294eaf28c154f6e2472ee2d202b8da88596521b"
-  integrity sha512-pnKfjUZBsOSxt19ZOmvn8VvBX2vQXG4I2yQ2TVNcf0s65xWKy/nKu2C2ByfaYuXNTeywQHJ98QKBKWSQikD7fA==
+"@types/p5@^1.7.2":
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/@types/p5/-/p5-1.7.2.tgz#50f3dfbe639d516a02cb5d0e3679cd079cf156a7"
+  integrity sha512-39WkTu/2aQyYVSyBEIZb7XTE6t1sZtHskes4ZOlilY5hqWKR+xlx5VUWS66QE2EORJWYLiHfaPcEQCfDIdlWaA==
 
 esbuild@^0.18.10:
   version "0.18.12"
@@ -155,10 +155,10 @@ nanoid@^3.3.6:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
   integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
 
-p5@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/p5/-/p5-1.7.0.tgz#c983f12c2ffc1125e17cb89e97103f7716cb9f05"
-  integrity sha512-qrbT/44Dwm63ZtOKX/mp61pw+5yj6ijYLOmRv7p6zcfjbo83Vb0gVFEvW0kTLFu7hceWCig0HONo9F1bSlqbsQ==
+p5@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/p5/-/p5-1.8.0.tgz#91a720357a4377d85405f29cdd276cf1fa4eb45c"
+  integrity sha512-LHzRRl+aWEZVXmK+L9TDRNw5zm90wvwMdY7yTmsFkdNeXrU9n2KSZbonCTXkyGgriguovxJrDDgyhkynOxWB1A==
 
 picocolors@^1.0.0:
   version "1.0.0"
