@@ -220,10 +220,10 @@ nanoid@^3.3.7:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
-p5@^1.9.0:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/p5/-/p5-1.9.0.tgz#04c406ae683449106d514108648035b21aa850fb"
-  integrity sha512-+5/hz0ZokCDf7BMMAeemE7FIo7gFZK7ImL62acHLXZwerGjqj+171bnaAWj4aCFCx6fwysAr2U7/AKuPyPhehA==
+p5@^1.9.3:
+  version "1.9.3"
+  resolved "https://registry.yarnpkg.com/p5/-/p5-1.9.3.tgz#bc0da17a392113c066f0eac749c38f14517ce07b"
+  integrity sha512-RnLMqejKJ9ZmBlUpCnVLYF1UnV/NnC13MfOSZdvJXTRH1eQkBQkUVCw5rkyRWE6chI4t5KvIJsZZnFzmGJEgag==
 
 picocolors@^1.0.0:
   version "1.0.0"
