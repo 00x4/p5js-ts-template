@@ -382,10 +382,10 @@ omggif@^1.0.10:
   resolved "https://registry.yarnpkg.com/omggif/-/omggif-1.0.10.tgz#ddaaf90d4a42f532e9e7cb3a95ecdd47f17c7b19"
   integrity sha512-LMJTtvgc/nugXj0Vcrrs68Mn2D1r0zf630VNtqtpI1FEO7e+O9FP4gqs9AcnBaSEeoHIPm28u6qgPR0oyEpGSw==
 
-p5@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/p5/-/p5-2.0.0.tgz#e52cc11041e4601b117dd1bcec304f553ec191ea"
-  integrity sha512-Medsj08L/SqrNbbnRR922tx/58J6ZgU9Irx3UMeIX8HRBZH0bZbWw9kdu5Kem7zZIkJPsC3m2L0BNRmIYmOtbg==
+p5@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/p5/-/p5-2.0.1.tgz#850a39bca93e3958ccd98243d3b7a2bae0362009"
+  integrity sha512-OLvuTaca4qN9188BCq6sFMzsfTctDZ6lbNXXoeCxOBjqg7WYQ4J1qHXbusJlj4CkdpUv/aIh4r+URcjUUI39Rw==
   dependencies:
     "@davepagurek/bezier-path" "^0.0.2"
     "@japont/unicode-range" "^1.0.0"
