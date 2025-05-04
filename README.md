@@ -15,10 +15,10 @@ git clone https://github.com/your-account/your-sketch.git
 
 # Go to working directory and initialize the project
 cd your-sketch
-yarn
+npm install
 
 # Launch app
-yarn dev
+npm run dev
 ```
 
 And open http://localhost:5173/ in your web browser.
