@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "p5": "^1.11.5"
+    "p5": "^1.11.11"
   },
   "devDependencies": {
     "typescript": "^5.9.3",
